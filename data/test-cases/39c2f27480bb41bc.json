@@ -1,0 +1,534 @@
+{
+  "uid" : "39c2f27480bb41bc",
+  "name" : "MAC_fi-MAC_sa (2021-02-05-004524) - 5",
+  "fullName" : "com.ruddell.kite.RnWebRtcWebShimTest",
+  "historyId" : "c6d8ef7d-63de-45a1-901b-ddfc3a3eed3d",
+  "time" : {
+    "start" : 1612485931820,
+    "stop" : 1612485953028,
+    "duration" : 21208
+  },
+  "description" : "MAC_fi-MAC_sa (2021-02-05-004524)",
+  "descriptionHtml" : "<p>MAC_fi-MAC_sa (2021-02-05-004524)</p>\n",
+  "status" : "passed",
+  "statusMessage" : "The test has passed successfully!",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "MAC_fi-MAC_sa (2021-02-05-004524)",
+    "status" : "passed",
+    "statusMessage" : "The test has passed successfully!",
+    "steps" : [ {
+      "name" : "Filling out reports, handling payload, creating runners..",
+      "time" : {
+        "start" : 1612485924253,
+        "stop" : 1612485931799,
+        "duration" : 7546
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "unknown(no Web Driver): Initiate webDriver for client",
+      "time" : {
+        "start" : 1612485924254,
+        "stop" : 1612485925884,
+        "duration" : 1630
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "unknown(no Web Driver): Initiate webDriver for client",
+      "time" : {
+        "start" : 1612485924254,
+        "stop" : 1612485931793,
+        "duration" : 7539
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Open http://localhost:5000 and wait for the page to load.",
+      "time" : {
+        "start" : 1612485931820,
+        "stop" : 1612485932134,
+        "duration" : 314
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Open http://localhost:5000 and wait for the page to load.",
+      "time" : {
+        "start" : 1612485931810,
+        "stop" : 1612485932437,
+        "duration" : 627
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Waiting for StartDemoStep to complete.",
+      "time" : {
+        "start" : 1612485932437,
+        "stop" : 1612485932447,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "137ebb6ba8f9b8c2",
+        "name" : "All runners completed",
+        "source" : "137ebb6ba8f9b8c2.plain",
+        "type" : "text/plain",
+        "size" : 24
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Resizing Window",
+      "time" : {
+        "start" : 1612485932447,
+        "stop" : 1612485932803,
+        "duration" : 356
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Waiting for StartDemoStep to complete.",
+      "time" : {
+        "start" : 1612485932134,
+        "stop" : 1612485933152,
+        "duration" : 1018
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fade0bb83d4c6445",
+        "name" : "All runners completed",
+        "source" : "fade0bb83d4c6445.plain",
+        "type" : "text/plain",
+        "size" : 24
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Resizing Window",
+      "time" : {
+        "start" : 1612485933152,
+        "stop" : 1612485933308,
+        "duration" : 156
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Joining the Demo Room and granting media access.",
+      "time" : {
+        "start" : 1612485933308,
+        "stop" : 1612485936910,
+        "duration" : 3602
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Joining the Demo Room and granting media access.",
+      "time" : {
+        "start" : 1612485932804,
+        "stop" : 1612485937697,
+        "duration" : 4893
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Check the streaming is being received OK",
+      "time" : {
+        "start" : 1612485936911,
+        "stop" : 1612485940601,
+        "duration" : 3690
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Start of stats recovery",
+      "time" : {
+        "start" : 1612485940601,
+        "stop" : 1612485940670,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Get a screenshot for the Viewer",
+      "time" : {
+        "start" : 1612485940670,
+        "stop" : 1612485940713,
+        "duration" : 43
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1641b9613a22b205",
+        "name" : "ScreenshotStep_2021-02-05-004540",
+        "source" : "1641b9613a22b205.png",
+        "type" : "image/png",
+        "size" : 25005
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: End of stats recovery",
+      "time" : {
+        "start" : 1612485940713,
+        "stop" : 1612485940751,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a08e58c5148a183f",
+        "name" : "stats overtime",
+        "source" : "a08e58c5148a183f.json",
+        "type" : "text/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Check the streaming is being received OK",
+      "time" : {
+        "start" : 1612485937697,
+        "stop" : 1612485942143,
+        "duration" : 4446
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Start of stats recovery",
+      "time" : {
+        "start" : 1612485942143,
+        "stop" : 1612485942201,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Get a screenshot for the Broadcaster",
+      "time" : {
+        "start" : 1612485942201,
+        "stop" : 1612485942298,
+        "duration" : 97
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1ed03a21172ee33f",
+        "name" : "ScreenshotStep_2021-02-05-004542",
+        "source" : "1ed03a21172ee33f.png",
+        "type" : "image/png",
+        "size" : 17722
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: End of stats recovery",
+      "time" : {
+        "start" : 1612485942298,
+        "stop" : 1612485942341,
+        "duration" : 43
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f65074e7ae539082",
+        "name" : "stats overtime",
+        "source" : "f65074e7ae539082.json",
+        "type" : "text/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Generate charts",
+      "time" : {
+        "start" : 1612485940751,
+        "stop" : 1612485946158,
+        "duration" : 5407
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Generate charts",
+      "time" : {
+        "start" : 1612485942341,
+        "stop" : 1612485947626,
+        "duration" : 5285
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Waiting for GenerateChartsStep to complete.",
+      "time" : {
+        "start" : 1612485947627,
+        "stop" : 1612485947642,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1d5c811815c1203e",
+        "name" : "All runners completed",
+        "source" : "1d5c811815c1203e.plain",
+        "type" : "text/plain",
+        "size" : 29
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Waiting for GenerateChartsStep to complete.",
+      "time" : {
+        "start" : 1612485946158,
+        "stop" : 1612485948285,
+        "duration" : 2127
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4baafcae7d08726e",
+        "name" : "All runners completed",
+        "source" : "4baafcae7d08726e.plain",
+        "type" : "text/plain",
+        "size" : 29
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Sa14_MAC-2F814 - 1: Leaving the Demo Room and revoking media access.",
+      "time" : {
+        "start" : 1612485948285,
+        "stop" : 1612485952412,
+        "duration" : 4127
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "fi85_MAC-2f445 - 0: Leaving the Demo Room and revoking media access.",
+      "time" : {
+        "start" : 1612485947642,
+        "stop" : 1612485953028,
+        "duration" : 5386
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Cleaning up and finishing the test",
+      "time" : {
+        "start" : 1612485953028,
+        "stop" : 1612485954567,
+        "duration" : 1539
+      },
+      "status" : "passed",
+      "statusMessage" : "The test has passed successfully!",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 26,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "package com.ruddell.kite"
+  }, {
+    "name" : "testClass",
+    "value" : "class com.ruddell.kite.RnWebRtcWebShimTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "execute"
+  }, {
+    "name" : "host",
+    "value" : "Mac-1612485193011.local"
+  }, {
+    "name" : "suite",
+    "value" : "React Native WebRtc Web Shim Test Local Grid  (2021-02-05-004253)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "React Native WebRtc Web Shim Test [2021-02-05-004253]"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Passed Tests",
+      "messageRegex" : ".*The test has passed successfully.*",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "39c2f27480bb41bc.json",
+  "parameterValues" : [ ]
+}
