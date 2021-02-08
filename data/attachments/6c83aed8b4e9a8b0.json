@@ -1,0 +1,566 @@
+[[
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.61282742689065E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.61282742689065E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.61282742689065E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827427472572E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827427472572E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827427472572E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827427995535E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827427995535E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827427995535E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827428534607E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827428534607E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827428534607E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827429084636E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827429084636E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827429084636E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827429692509E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827429692509E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827429692509E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827430202515E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827430202515E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827430202515E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827430811933E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827430811933E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827430811933E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827431318156E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827431318156E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827431318156E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827431826502E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827431826502E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827431826502E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827432361129E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827432361129E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827432361129E12
+    }
+  ],
+  [
+    {
+      "totalAudioEnergy": 0,
+      "removedSamplesForAcceleration": 0,
+      "jitterBufferDelay": 0,
+      "kind": "audio",
+      "concealedSamples": 0,
+      "type": "track",
+      "trackIdentifier": "cd2c679f-c1ed-4cc8-8381-6ab02aca8888",
+      "totalSamplesDuration": 0,
+      "detached": false,
+      "insertedSamplesForDeceleration": 0,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "totalSamplesReceived": 0,
+      "concealmentEvents": 0,
+      "id": "RTCMediaStreamTrack_receiver_3",
+      "remoteSource": true,
+      "silentConcealedSamples": 0,
+      "timestamp": 1.612827432882019E12
+    },
+    {
+      "framesReceived": 0,
+      "jitterBufferDelay": 0,
+      "kind": "video",
+      "type": "track",
+      "trackIdentifier": "c95dee8b-2dfd-4878-b698-54327bfd41ec",
+      "detached": false,
+      "jitterBufferEmittedCount": 0,
+      "ended": false,
+      "id": "RTCMediaStreamTrack_receiver_4",
+      "remoteSource": true,
+      "framesDecoded": 0,
+      "framesDropped": 0,
+      "timestamp": 1.612827432882019E12
+    },
+    {
+      "id": "RTCMediaStream_a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "streamIdentifier": "a0a938ce-3063-40ad-8ab7-665fc3a8d53b",
+      "trackIds": [
+        "RTCMediaStreamTrack_receiver_3",
+        "RTCMediaStreamTrack_receiver_4"
+      ],
+      "type": "stream",
+      "timestamp": 1.612827432882019E12
+    }
+  ]
+]]

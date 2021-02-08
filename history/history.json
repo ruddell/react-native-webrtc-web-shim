@@ -1,125 +1,5 @@
 {
-  "ae2e848a-62c2-4d06-b744-a5350cb66494" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "f163548b61e096ee",
-      "status" : "passed",
-      "statusDetails" : "The test has passed successfully!",
-      "time" : {
-        "start" : 1612827133432,
-        "stop" : 1612827194793,
-        "duration" : 61361
-      }
-    } ]
-  },
-  "2fbd83ff-584c-49f0-b3b9-96b132ebab06" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "ad10c5c73c21fa4d",
-      "status" : "passed",
-      "statusDetails" : "The test has passed successfully!",
-      "time" : {
-        "start" : 1612827038513,
-        "stop" : 1612827074528,
-        "duration" : 36015
-      }
-    } ]
-  },
-  "a9f1e68d-d5f1-4ad6-ac8a-9015bdcff7ab" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b9ff1470b83eee67",
-      "status" : "passed",
-      "statusDetails" : "The test has passed successfully!",
-      "time" : {
-        "start" : 1612827344226,
-        "stop" : 1612827388270,
-        "duration" : 44044
-      }
-    } ]
-  },
-  "43d904c4-658b-46e5-aaa7-24144091eb22" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "5a7044d8cf2a2a2d",
-      "status" : "passed",
-      "statusDetails" : "The test has passed successfully!",
-      "time" : {
-        "start" : 1612827202934,
-        "stop" : 1612827245468,
-        "duration" : 42534
-      }
-    } ]
-  },
-  "c308f469-fc60-4b2b-b116-d2aa66badad0" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "95e155deb476e857",
-      "status" : "passed",
-      "statusDetails" : "The test has passed successfully!",
-      "time" : {
-        "start" : 1612827255360,
-        "stop" : 1612827288273,
-        "duration" : 32913
-      }
-    } ]
-  },
-  "0bf782cb-d56b-499d-a168-f8334a705b17" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "75bedc9c5efd0e61",
-      "status" : "passed",
-      "statusDetails" : "The test has passed successfully!",
-      "time" : {
-        "start" : 1612827296904,
-        "stop" : 1612827338642,
-        "duration" : 41738
-      }
-    } ]
-  },
-  "fa5b86d1-ccfa-4f28-82b1-f0015be4a963" : {
+  "dbb4bbf1-67c2-4939-b929-d17d81a1dd8e" : {
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -129,17 +9,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7b4e35ab9c28f9e4",
+      "uid" : "c60ed0eda2f8a409",
       "status" : "failed",
       "statusDetails" : "The received video is blank\r\n",
       "time" : {
-        "start" : 1612827395848,
-        "stop" : 1612827441951,
-        "duration" : 46103
+        "start" : 1612827300916,
+        "stop" : 1612827345676,
+        "duration" : 44760
       }
     } ]
   },
-  "14b5ddb3-cd13-40ec-8d81-d4fdcffdec7c" : {
+  "493126c8-580f-4739-b599-b440f598037d" : {
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -149,13 +29,133 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1332f4e4d0f21e52",
+      "uid" : "e985f565de88f58e",
       "status" : "failed",
       "statusDetails" : "The received video is blank\r\n",
       "time" : {
-        "start" : 1612827083913,
-        "stop" : 1612827128352,
-        "duration" : 44439
+        "start" : 1612827576051,
+        "stop" : 1612827621421,
+        "duration" : 45370
+      }
+    } ]
+  },
+  "42036f05-a166-4da2-bcd6-789db2555ed4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc529584a9414cf0",
+      "status" : "passed",
+      "statusDetails" : "The test has passed successfully!",
+      "time" : {
+        "start" : 1612827253694,
+        "stop" : 1612827290715,
+        "duration" : 37021
+      }
+    } ]
+  },
+  "1a5f3bfe-cd99-4a3c-881b-1d6cf89010cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc245d0a128375c1",
+      "status" : "passed",
+      "statusDetails" : "The test has passed successfully!",
+      "time" : {
+        "start" : 1612827495781,
+        "stop" : 1612827532693,
+        "duration" : 36912
+      }
+    } ]
+  },
+  "c9b41fad-1cac-4cd5-8313-ed15214ef468" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3612be33889d5607",
+      "status" : "passed",
+      "statusDetails" : "The test has passed successfully!",
+      "time" : {
+        "start" : 1612827537712,
+        "stop" : 1612827569063,
+        "duration" : 31351
+      }
+    } ]
+  },
+  "a5e019fb-aa23-4ea5-8938-9759ac6f56b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e318e9c5e0ea6a55",
+      "status" : "passed",
+      "statusDetails" : "The test has passed successfully!",
+      "time" : {
+        "start" : 1612827455078,
+        "stop" : 1612827486200,
+        "duration" : 31122
+      }
+    } ]
+  },
+  "61cc2395-2a72-4c69-8a74-f3b0e8d511a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3886b51766d7a19a",
+      "status" : "passed",
+      "statusDetails" : "The test has passed successfully!",
+      "time" : {
+        "start" : 1612827350769,
+        "stop" : 1612827388925,
+        "duration" : 38156
+      }
+    } ]
+  },
+  "8a33e910-5427-4224-adc1-2c6abdc2fcf0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "149cb409992cda97",
+      "status" : "failed",
+      "statusDetails" : "The received video is blank\r\n",
+      "time" : {
+        "start" : 1612827397196,
+        "stop" : 1612827444644,
+        "duration" : 47448
       }
     } ]
   }
