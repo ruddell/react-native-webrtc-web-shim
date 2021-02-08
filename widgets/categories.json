@@ -1,15 +1,26 @@
 {
-  "total" : 1,
+  "total" : 2,
   "items" : [ {
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d",
+    "name" : "Product defects",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "cd64036f7f7fd2930ce7ba1a770e9461",
     "name" : "Passed Tests",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 8
+      "total" : 6
     }
   } ]
 }

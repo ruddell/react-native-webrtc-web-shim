@@ -1,110 +1,83 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "name" : "categories",
   "children" : [ {
     "name" : "Passed Tests",
     "children" : [ {
       "name" : "The test has passed successfully!",
       "children" : [ {
-        "name" : "MAC_ch-MAC_ch (2021-02-08-230911) - 0",
-        "uid" : "427a24f060447dad",
+        "name" : "MAC_ch-MAC_ch (2021-02-08-233034) - 0",
+        "uid" : "ad10c5c73c21fa4d",
         "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
         "status" : "passed",
         "time" : {
-          "start" : 1612825755482,
-          "stop" : 1612825798327,
-          "duration" : 42845
+          "start" : 1612827038513,
+          "stop" : 1612827074528,
+          "duration" : 36015
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "MAC_ch-MAC_fi (2021-02-08-230958) - 1",
-        "uid" : "1f03f9a640cd5bc6",
+        "name" : "MAC_ch-MAC_sa (2021-02-08-233209) - 2",
+        "uid" : "f163548b61e096ee",
         "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
         "status" : "passed",
         "time" : {
-          "start" : 1612825808056,
-          "stop" : 1612825844387,
-          "duration" : 36331
+          "start" : 1612827133432,
+          "stop" : 1612827194793,
+          "duration" : 61361
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "MAC_ch-MAC_sa (2021-02-08-231044) - 2",
-        "uid" : "895934d9226b4e26",
+        "name" : "MAC_fi-MAC_ch (2021-02-08-233315) - 3",
+        "uid" : "5a7044d8cf2a2a2d",
         "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
         "status" : "passed",
         "time" : {
-          "start" : 1612825848771,
-          "stop" : 1612825890239,
-          "duration" : 41468
+          "start" : 1612827202934,
+          "stop" : 1612827245468,
+          "duration" : 42534
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "MAC_fi-MAC_ch (2021-02-08-231130) - 3",
-        "uid" : "33d5904bd927fb4f",
+        "name" : "MAC_fi-MAC_fi (2021-02-08-233406) - 4",
+        "uid" : "95e155deb476e857",
         "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
         "status" : "passed",
         "time" : {
-          "start" : 1612825897676,
-          "stop" : 1612825938361,
-          "duration" : 40685
+          "start" : 1612827255360,
+          "stop" : 1612827288273,
+          "duration" : 32913
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "MAC_fi-MAC_fi (2021-02-08-231219) - 4",
-        "uid" : "7fe58d53c8062428",
+        "name" : "MAC_fi-MAC_sa (2021-02-08-233449) - 5",
+        "uid" : "75bedc9c5efd0e61",
         "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
         "status" : "passed",
         "time" : {
-          "start" : 1612825947586,
-          "stop" : 1612825978734,
-          "duration" : 31148
+          "start" : 1612827296904,
+          "stop" : 1612827338642,
+          "duration" : 41738
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "MAC_fi-MAC_sa (2021-02-08-231300) - 5",
-        "uid" : "7dee92a2417cd10c",
+        "name" : "MAC_sa-MAC_ch (2021-02-08-233540) - 6",
+        "uid" : "b9ff1470b83eee67",
         "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
         "status" : "passed",
         "time" : {
-          "start" : 1612825986893,
-          "stop" : 1612826027889,
-          "duration" : 40996
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "MAC_sa-MAC_ch (2021-02-08-231349) - 6",
-        "uid" : "e1a07ac6b809017b",
-        "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
-        "status" : "passed",
-        "time" : {
-          "start" : 1612826033755,
-          "stop" : 1612826075843,
-          "duration" : 42088
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "MAC_sa-MAC_fi (2021-02-08-231436) - 7",
-        "uid" : "599b33a948eb2e2d",
-        "parentUid" : "fc7aef0a73d2fdc65a3e34d19f804193",
-        "status" : "passed",
-        "time" : {
-          "start" : 1612826083480,
-          "stop" : 1612826115114,
-          "duration" : 31634
+          "start" : 1612827344226,
+          "stop" : 1612827388270,
+          "duration" : 44044
         },
         "flaky" : false,
         "newFailed" : false,
@@ -113,5 +86,40 @@
       "uid" : "fc7aef0a73d2fdc65a3e34d19f804193"
     } ],
     "uid" : "cd64036f7f7fd2930ce7ba1a770e9461"
-  } ]
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The received video is blank\r\n",
+      "children" : [ {
+        "name" : "MAC_ch-MAC_fi (2021-02-08-233114) - 1",
+        "uid" : "1332f4e4d0f21e52",
+        "parentUid" : "dce4ba7141e825a3008e1ed8257a296f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612827083913,
+          "stop" : 1612827128352,
+          "duration" : 44439
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MAC_sa-MAC_fi (2021-02-08-233628) - 7",
+        "uid" : "7b4e35ab9c28f9e4",
+        "parentUid" : "dce4ba7141e825a3008e1ed8257a296f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612827395848,
+          "stop" : 1612827441951,
+          "duration" : 46103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dce4ba7141e825a3008e1ed8257a296f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
 }
