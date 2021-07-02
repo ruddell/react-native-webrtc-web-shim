@@ -1,0 +1,15 @@
+org.webrtc.kite.exception.KiteGridException: WebDriverException creating webdriver for 
+{"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true,"appender":{}},"count":5,"clientIndex":2,"fullReset":false,"jsonConfig":{"browserName":{},"platform":{}},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"specList":[],"networkProfile":{"corrupt":0,"delay":0,"cleanUpCommand":"","bandwidth":0,"packetloss":0,"name":"NONE","duplicate":0,"id":"","command":""},"availableSlots":0,"type":"local","region":"NC","url":"http://localhost:4444/wd/hub"},"name":"1","networkProfile":{"corrupt":0,"delay":0,"cleanUpCommand":"","bandwidth":0,"packetloss":0,"name":"","duplicate":0,"id":"","command":""},"exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"","browserName":"safari","deviceName":"unknown","platform":"MAC"},"region":"NC"}:
+Error forwarding the new session new session request for webdriver should contain a location header or an 'application/json;charset=UTF-8' response body with the session ID.
+Command duration or timeout: 600.05 seconds
+	at org.webrtc.kite.config.client.Client.createWebDriver(Client.java:532)
+	at org.webrtc.kite.tests.InitClientWebDriverStep.step(InitClientWebDriverStep.java:33)
+	at io.cosmosoftware.kite.steps.TestStep.execute(TestStep.java:81)
+	at io.cosmosoftware.kite.steps.TestStep.processTestStep(TestStep.java:329)
+	at org.webrtc.kite.tests.TestRunner.<init>(TestRunner.java:73)
+	at org.webrtc.kite.tests.TestRunnerCreator.call(TestRunnerCreator.java:33)
+	at org.webrtc.kite.tests.TestRunnerCreator.call(TestRunnerCreator.java:12)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

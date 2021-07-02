@@ -1,0 +1,40 @@
+org.webrtc.kite.exception.KiteGridException: SessionNotCreatedException creating webdriver for 
+{"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true,"appender":{}},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"browserName":{},"_capabilities":{"acceptInsecureCerts":"true"},"version":{},"platform":{}},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"specList":[],"networkProfile":{"corrupt":0,"delay":0,"cleanUpCommand":"","bandwidth":0,"packetloss":0,"name":"NONE","duplicate":0,"id":"","command":""},"availableSlots":0,"type":"local","region":"NC","url":"http://localhost:4444/wd/hub"},"name":"0","networkProfile":{"corrupt":0,"delay":0,"cleanUpCommand":"","bandwidth":0,"packetloss":0,"name":"","duplicate":0,"id":"","command":""},"exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"MAC"},"region":"NC"}:
+session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 91.0.4472.114 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'Mac-1625256494988.local', ip: '10.79.0.162', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_292'
+Driver info: driver.version: unknown
+remote stacktrace: 0   chromedriver                        0x000000010896e909 chromedriver + 2533641
+1   chromedriver                        0x0000000108ff8d53 chromedriver + 9391443
+2   chromedriver                        0x000000010872c3c3 chromedriver + 164803
+3   chromedriver                        0x0000000108750566 chromedriver + 312678
+4   chromedriver                        0x000000010874c774 chromedriver + 296820
+5   chromedriver                        0x00000001087499a5 chromedriver + 285093
+6   chromedriver                        0x000000010877c834 chromedriver + 493620
+7   chromedriver                        0x0000000108777b43 chromedriver + 473923
+8   chromedriver                        0x0000000108752616 chromedriver + 321046
+9   chromedriver                        0x0000000108753587 chromedriver + 324999
+10  chromedriver                        0x000000010893d7f9 chromedriver + 2332665
+11  chromedriver                        0x000000010894a963 chromedriver + 2386275
+12  chromedriver                        0x000000010894a45b chromedriver + 2384987
+13  chromedriver                        0x00000001089245b5 chromedriver + 2229685
+14  chromedriver                        0x000000010894b3bf chromedriver + 2388927
+15  chromedriver                        0x0000000108932c79 chromedriver + 2288761
+16  chromedriver                        0x0000000108961f69 chromedriver + 2482025
+17  chromedriver                        0x0000000108974103 chromedriver + 2556163
+18  libsystem_pthread.dylib             0x00007fff70be6109 _pthread_start + 148
+19  libsystem_pthread.dylib             0x00007fff70be1b8b thread_start + 15
+
+Command duration or timeout: 3.89 seconds
+	at org.webrtc.kite.config.client.Client.createWebDriver(Client.java:532)
+	at org.webrtc.kite.tests.InitClientWebDriverStep.step(InitClientWebDriverStep.java:33)
+	at io.cosmosoftware.kite.steps.TestStep.execute(TestStep.java:81)
+	at io.cosmosoftware.kite.steps.TestStep.processTestStep(TestStep.java:329)
+	at org.webrtc.kite.tests.TestRunner.<init>(TestRunner.java:73)
+	at org.webrtc.kite.tests.TestRunnerCreator.call(TestRunnerCreator.java:33)
+	at org.webrtc.kite.tests.TestRunnerCreator.call(TestRunnerCreator.java:12)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
